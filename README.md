@@ -11,4 +11,4 @@ Analysis of coffee shop sales data using Microsoft Excel and Power Query.
 - Identified peak sales hours and top-performing product categories
 - Developed recommendations to improve business performance
 ## Report
-The full project report is available in **Coffee_Shop_Sales_Report.pdf**.
+The full project report is available in "Coffee_Shop_Sales_Report.pdf"
